@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"mount_options":["dmode=755","fmode=644","uid=1000","gid=1000","_netdev"],"guestpath":"/vagrant","hostpath":"C:/Users/shyam/OneDrive - University of Otago/Desktop/COSC349 Cloud Computing/Assignments/To Do List/cosc349-todo-app","disabled":false,"__vagrantfile":true}}}
